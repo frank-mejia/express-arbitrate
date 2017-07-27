@@ -1,0 +1,15 @@
+{
+  "name": "arbitrate",
+  "version": "0.0.1",
+  "description": "API validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "keywords": [
+    "api",
+    "express-validator"
+  ],
+  "author": "Francisco Mejia",
+  "license": "UNLICENSED"
+}
