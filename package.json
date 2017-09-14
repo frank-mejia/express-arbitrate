@@ -1,6 +1,6 @@
 {
-  "name": "arbitrate",
-  "version": "0.0.1",
+  "name": "express-arbitrate",
+  "version": "0.0.2",
   "description": "API validator",
   "main": "index.js",
   "scripts": {
@@ -8,8 +8,14 @@
   },
   "keywords": [
     "api",
-    "express-validator"
+    "express-validator",
+    "express"
   ],
   "author": "Francisco Mejia",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "lodash": "^4.17.4"
+  }
 }
